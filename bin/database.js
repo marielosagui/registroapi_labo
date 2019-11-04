@@ -1,4 +1,4 @@
-var mongoose = require ('mongoose');
+/* var mongoose = require ('mongoose');
 
 let database= "registroapi";
 let port="27017";
@@ -13,4 +13,4 @@ mongoose
     .then()=>{
         console.log
     }
-}
+} */
